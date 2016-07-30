@@ -2,7 +2,7 @@ Anchor Graph Hashing for Large-Scale Nearest Neighbor Search [Code]
 ----
 ####Terms of Use
 
-Copyright (c) 2012 by DVMM Laboratory
+Copyright (c) 2009-2011 by DVMM Laboratory
 
 Department of Electrical Engineering</br>
 Columbia University</br>
